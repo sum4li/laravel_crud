@@ -29,8 +29,8 @@
                         </p>
                     </a>
                 </li>       
-                <li class="nav-item has-treeview {{active(['bahan_pokok.*','akun.*','produk.*','customer.*','suplier.*','karyawan.*','counter.*','lokasi.*','harga_jual.*','harga_beli.*'],'menu-open')}}">
-                    <a href="#" class="nav-link {{active(['bahan_pokok.*','akun.*','produk.*','customer.*','suplier.*','karyawan.*','counter.*','lokasi.*','harga_jual.*','harga_beli.*'],'active')}}">
+                <li class="nav-item has-treeview {{active(['admin.penduduk.*','admin.user.*'],'menu-open')}}">
+                    <a href="#" class="nav-link {{active(['admin.penduduk.*','admin.user.*'],'active')}}">
                     <i class="nav-icon fa fa-bars"></i>
                     <p>
                         Master Data
@@ -39,13 +39,13 @@
                     </a>
                     <ul class="nav nav-treeview">
                         <li class="nav-item">
-                            <a href="{{route('admin.penduduk.index')}}" class="nav-link {{active(['bahan_pokok.*'],'active')}}">
+                            <a href="{{route('admin.penduduk.index')}}" class="nav-link {{active(['admin.penduduk*'],'active')}}">
                             <i class="far fa-circle nav-icon"></i>
                             <p>Penduduk</p>
                             </a>
                         </li>
                         <li class="nav-item">
-                            <a href="{{route('admin.user.index')}}" class="nav-link {{active(['bahan_pokok.*'],'active')}}">
+                            <a href="{{route('admin.user.index')}}" class="nav-link {{active(['admin.user.*'],'active')}}">
                             <i class="far fa-circle nav-icon"></i>
                             <p>User</p>
                             </a>
