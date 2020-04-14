@@ -1,12 +1,17 @@
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-</p>
 
-## About Laravel CRUD
+## PHP Laravel CRUD MySQL untuk starting project
 
-Basic Starter Laravel CRUD for your Project
+Basic aplikasi web untuk starter project anda Menggunakan PHP Framework Laravel Versi 7 dan Database MySQL
+
+Fitur
+
+- Responsive design AdminLTE 3 (bootstrap 4)
+- Login & Logout Dashboard
+- CRUD Data Penduduk
+- CRUD Data User, menggunakan BCRYTPT HASH untuk mengamankan password
+
+    Demo aplikasi bisa diakses di: https://demo.azuharu.net/starting/ dengan username/password: admin/password
+
+Petunjuk instalasi ada di dalam produk. Jika mengalami kesulitan silakan menghubungi saya melalui email. Untuk pengembangan aplikasi, atau sekedar bertanya, juga bisa.
