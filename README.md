@@ -1,7 +1,7 @@
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 
-## PHP Laravel CRUD MySQL untuk starting project atau belajar Laravel
+## PHP Laravel CRUD (Create Read Update Delete) MySQL untuk starting project atau belajar Laravel
 
 Basic aplikasi web untuk starter project anda atau untuk sekedar belajar laravel Menggunakan PHP Framework Laravel Versi 7 dan Database MySQL
 
