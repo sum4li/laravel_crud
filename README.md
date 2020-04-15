@@ -8,10 +8,9 @@ Basic aplikasi web untuk starter project anda atau untuk sekedar belajar laravel
 Fitur
 
 - Responsive design AdminLTE 3 (bootstrap 4)
+- Datatables
 - Login & Logout Dashboard
 - CRUD Data Penduduk
 - CRUD Data User, menggunakan BCRYTPT HASH untuk mengamankan password
-- Demo aplikasi bisa diakses di: https://demo.azuharu.net/starting/ dengan username/password: admin/password
-
 
 Petunjuk instalasi ada di dalam produk. Jika mengalami kesulitan silakan menghubungi saya melalui email. Untuk pengembangan aplikasi, atau sekedar bertanya, juga bisa.
