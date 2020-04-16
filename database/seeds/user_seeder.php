@@ -24,7 +24,7 @@ class user_seeder extends Seeder
             User::create([
                 'name'=>$row['name'],
                 'email'=>$row['email'],
-                'password'=>Hash::make($row['password'])
+                'password'=>$row['password']
             ]);
         }
     }
