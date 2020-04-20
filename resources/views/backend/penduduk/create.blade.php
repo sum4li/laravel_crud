@@ -40,11 +40,11 @@
                         <div class="form-group clearfix">
                             <label class="d-block">Jenis Kelamin</label>
                             <div class="icheck-primary">
-                              <input type="radio" id="radioPrimary1" name="jenis_kelamin" checked="">
+                              <input type="radio" id="radioPrimary1" name="jenis_kelamin" value="laki-laki" checked="">
                               <label for="radioPrimary1">Laki - Laki</label>
                             </div>
                             <div class="icheck-danger">
-                              <input type="radio" id="radioPrimary2" name="jenis_kelamin">
+                              <input type="radio" id="radioPrimary2" name="jenis_kelamin" value="perempuan">
                               <label for="radioPrimary2">Perempuan
                               </label>
                             </div>                            

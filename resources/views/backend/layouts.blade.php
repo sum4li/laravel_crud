@@ -83,7 +83,6 @@
     <script src="{{asset('backend/plugins/datatables-bs4/js/dataTables.bootstrap4.min.js')}}"></script>
     <script src="{{asset('backend/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js')}}"></script>
     <script src="{{asset('backend/js/adminlte.js')}}"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.repeater/1.2.1/jquery.repeater.min.js"></script>
     <script>
         $('[data-toggle="tooltip"]').tooltip();
     </script>
